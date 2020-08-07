@@ -1,0 +1,1 @@
+some line added in c.txt
