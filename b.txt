@@ -1,3 +1,4 @@
 some text in b.txt
-
 added few line
+
+updated code
