@@ -1,2 +1,2 @@
 def get_token():
-    return {"message": "jai"}
+    return {"message": "jai", "status": "success"}
