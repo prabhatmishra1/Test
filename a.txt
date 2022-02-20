@@ -4,3 +4,8 @@ master
 This line is commin from test branch
 feature
 add new line in a.txt
+
+#####################################
+Topic-16: Ignoring unwanted Files and
+Directories by using .gitignore File
+#####################################
